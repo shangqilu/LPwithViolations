@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.model1
+*.model0
+*.model2
+*.result
+*.result1
+*.result0
+*.result2
+*.model
